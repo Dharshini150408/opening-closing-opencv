@@ -57,9 +57,9 @@ Compare the original, opened, and closed images.
 
 ## Developed By
 
-**Name:** ____________________________
+**Name:** DHARSHINI V
 
-**Register No:** ______________________
+**Register No:** 212225100010
 
 ## Output
 
@@ -67,6 +67,8 @@ Compare the original, opened, and closed images.
 
 - The input image is displayed.
 - The image serves as the source for morphological processing.
+- <img width="601" height="333" alt="image" src="https://github.com/user-attachments/assets/784c3677-6d62-4afe-ad4d-05a95304d46e" />
+
 
 ### Opening Operation
 
@@ -75,6 +77,8 @@ Compare the original, opened, and closed images.
 - Small foreground noise is removed.
 - Thin protrusions and isolated pixels are eliminated.
 - Object boundaries become smoother.
+- <img width="620" height="232" alt="image" src="https://github.com/user-attachments/assets/fc8db8ee-60ea-4788-95fd-e1d8d90734de" />
+
 
 ### Closing Operation
 
@@ -83,6 +87,8 @@ Compare the original, opened, and closed images.
 - Small holes and gaps inside objects are filled.
 - Broken regions are connected.
 - Object boundaries become more continuous.
+- <img width="560" height="252" alt="image" src="https://github.com/user-attachments/assets/2142e3ad-430e-4b63-afe6-f00468f9391c" />
+
 
 ## Applications
 
